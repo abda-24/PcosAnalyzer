@@ -1,0 +1,37 @@
+﻿[
+  {
+    "UserName": "abdullah_admin",
+    "Email": "admin@smartpcos.com",
+    "FullName": "Abdullah Elbanna",
+    "PhoneNumber": "01012345678",
+    "CreatedAt": "2026-02-08T20:00:00"
+  },
+  {
+    "UserName": "malak_magdy",
+    "Email": "malak@example.com",
+    "FullName": "Malak Magdy",
+    "PhoneNumber": "01122334455",
+    "CreatedAt": "2026-02-08T20:00:00"
+  },
+  {
+    "UserName": "sara_ahmed",
+    "Email": "sara@example.com",
+    "FullName": "Sara Ahmed",
+    "PhoneNumber": "01233445566",
+    "CreatedAt": "2026-02-08T20:00:00"
+  },
+  {
+    "UserName": "nora_ali",
+    "Email": "nora@example.com",
+    "FullName": "Nora Ali",
+    "PhoneNumber": "01555667788",
+    "CreatedAt": "2026-02-08T20:00:00"
+  },
+  {
+    "UserName": "fatma_zaki",
+    "Email": "fatma@example.com",
+    "FullName": "Fatma Zaki",
+    "PhoneNumber": "01099887766",
+    "CreatedAt": "2026-02-08T20:00:00"
+  }
+]
